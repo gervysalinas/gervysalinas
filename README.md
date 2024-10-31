@@ -19,7 +19,7 @@
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m `Systems Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]([http://lnkiy.in/Ahmed_Hossam_Resume](https://github.com/gervysalinas)).
+- :thinking: This is [MY RESUME]([http://lnkiy.in/Ahmed_Hossam_Resume](https://github.com/gervysalinas)).
 - :boom: You can visit [MY WEBSITE]([https://cutt.ly/Ahmed_Hossam_Website](https://github.com/gervysalinas)).
 <br>
 
