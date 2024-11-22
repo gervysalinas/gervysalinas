@@ -6,7 +6,7 @@
 
 <picture align="center">
   
-![VisitorCount](https://profile-counter.glitch.me/gsalinas/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/gervysalinas/count.svg)
 
 </picture>
 
